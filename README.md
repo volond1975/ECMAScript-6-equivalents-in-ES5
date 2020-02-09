@@ -1,0 +1,1 @@
+# ECMAScript-6-equivalents-in-ES5
